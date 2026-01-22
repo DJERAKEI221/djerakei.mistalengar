@@ -202,14 +202,6 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 ---
 
----
-
-### 📈 Activité GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=DJERAKEI221&theme=radical&hide_border=true)
-
----
-
 *Dernière mise à jour : 2026* ✨
 
 **💡 Disponible pour des opportunités de stage, projets collaboratifs et missions en analyse de données**
