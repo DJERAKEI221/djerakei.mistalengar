@@ -1,16 +1,29 @@
-# 👋 Djerakeï Mistalengar
-
 <div align="center">
 
-<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+# 👋 Djerakeï Mistalengar
+
+<br>
+
+<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="220" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
+
+<br>
+<br>
 
 ### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
+
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
-[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-black?style=flat&logo=github)](https://github.com/DJERAKEI221)
-[![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-red?style=flat&logo=gmail)](mailto:yvesdjerake@gmail.com)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
+[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
+[![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
+
+<br>
+<br>
+
+---
 
 </div>
 
