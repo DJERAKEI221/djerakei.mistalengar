@@ -144,6 +144,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 | 📊 **Stagiaire** | Agence nationale de la Statistique et de la Démographie (ANSD) | Août - Octobre 2023 |
 | 📋 **Adjoint commissaire au compte** | Association des Grandes écoles et instituts du Sénégal (AGEIS) | Février 2023 - présent |
 | 📝 **Agent enquêteur** | Enquête sur l'accès aux services sociaux de base (EP2022 - ENSAE) | 2022 |
+| 📝 **Agent enquêteur** | Enquête sur l'évaluation d'impact du programme de mise à niveau des entreprises sénégalaises | 2025 |
 | 🎯 **Membre équipe d'échantillonnage** | Enquête sur la gestion des communs au Sénégal (EP2024 - ENSAE) | 2024 |
 
 ---
@@ -151,7 +152,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 ## 👥 Leadership et engagement
 
 - 👑 **Président** - Communauté des étudiants tchadiens de l'ENSAE (Octobre 2023)
-- 📝 **Secrétaire** - Amical des Étudiants Tchadiens en Économie et en Statistique au Sénégal (AETES/SEN) (2025)
+- 📝 **Secrétaire** - Amical des étudiants tchadiens en économie et en statistique au Sénégal (AETES/SEN) (2025)
 - 📋 **Adjoint commissaire au compte** - Association des Grandes écoles et instituts du Sénégal (AGEIS 2023)
 
 ---
@@ -162,7 +163,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal | 2024 - présent
 
-### ✅ Diplôme d'Analyste Statisticien (AS) - ENSAE | 2021-2024
+### ✅ Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
 
 ---
 
