@@ -32,17 +32,14 @@
 
 Bienvenue sur mon profil GitHub ! 👋
 
-Je suis Djerakeï Mistalengar, Élève Ingénieur Statisticien Économiste (ISE) et analyste statisticien passionné par la résolution de problèmes complexes à l'aide de techniques statistiques et d'analyse de données. Je combine une solide formation académique en statistique et économétrie avec une expérience pratique en collecte, traitement et analyse de données. Capable de travailler de manière autonome et en équipe, je suis constamment à la recherche de nouvelles méthodologies pour améliorer la prise de décision basée sur les données.
+Je suis Djerakeï Mistalengar, actuellement Élève Ingénieur Statisticien Économiste (ISE) à l'ENSAE. Je développe différents types de projets académiques : applications web interactives avec R Shiny, modèles de machine learning en Python, data warehouses avec AWS, et outils de nettoyage de données. J'utilise principalement R, Python et SQL, et j'ai de l'expérience dans la collecte, le traitement et l'analyse de données. J'apprends continuellement de nouvelles techniques pour améliorer mes compétences.
 
-**Compétences clés** : Analyse de données | Machine Learning | Visualisation | Économétrie | Gestion de projets
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité ! 🚀
 
 ---
 
 ## 💻 Compétences techniques
-
-*Organisées selon les étapes de production statistique*
 
 ### 📱 1. Collecte de données
 ![ODK](https://img.shields.io/badge/ODK-Open%20Data%20Kit-FF6B6B?style=flat)
@@ -70,7 +67,8 @@ N'hésitez pas à explorer mes projets et à me contacter pour toute collaborati
 **Machine Learning** : Modèles de régression, séries temporelles, variables qualitatives  
 **Économétrie** : Modèle linéaire, séries temporelles, variables qualitatives  
 **Analyse spatiale** : QGIS  
-**Big Data** : Traitement et analyse de grandes masses de données
+**Big Data** : Traitement et analyse de grandes masses de données  
+**Data Mining** : Extraction et découverte de connaissances à partir de grandes bases de données
 
 ### 📈 4. Visualisation et diffusion
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -152,8 +150,9 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 ## 👥 Leadership et engagement
 
-- 👑 **Président** - Communauté des étudiants tchadiens de l'ENSAE (Octobre 2023 - présent)
-- 📋 **Adjoint commissaire au compte** - Association des Grandes écoles et instituts du Sénégal (AGEIS)
+- 👑 **Président** - Communauté des étudiants tchadiens de l'ENSAE (Octobre 2023)
+- 📝 **Secrétaire** - Amical des étudiants tchadiens en économie et en statistique au Sénégal (AETES/SEN) (2025)
+- 📋 **Adjoint commissaire au compte** - Association des Grandes écoles et instituts du Sénégal (AGEIS 2023)
 
 ---
 
@@ -163,21 +162,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal | 2024 - présent
 
-### ✅ Formation précédente
-**Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
-
-### 🎓 Diplômes universitaires
-**Troisième année de Licence Professionnelle de Chimie Appliquée**  
-Faculté des Sciences Exactes et Appliquées (FSEA) - Université de N'Djamena, Tchad | 2019-2021
-
-**Deuxième année de Licence Professionnelle de Chimie Appliquée**  
-Faculté des Sciences Exactes et Appliquées (FSEA) - Université de N'Djamena, Tchad | 2019-2020
-
-**Licence 1 de Physique-Chimie**  
-Faculté des Sciences Exactes et Appliquées (FSEA) - Université de N'Djamena, Tchad | 2018-2019
-
-**Baccalauréat - Série C**  
-Lycée Ahmed Mangue (LAM) de Sarh, Tchad | 2018
+### ✅ Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
 
 ---
 
@@ -200,7 +185,7 @@ Lycée Ahmed Mangue (LAM) de Sarh, Tchad | 2018
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
 📱 **Téléphone** : +221 77 468 58 13  
-📍 **Localisation** : Grand-Dakar (zone B), Sénégal
+📍 **Localisation** : Zone B, Dakar, Sénégal
 
 </div>
 
