@@ -7,7 +7,7 @@
 </td>
 <td width="70%" valign="top">
 
-# 👋 Djerakeï Mistalengar
+# 👋 DJERAKEI MISTALENGAR
 
 ### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
 
@@ -151,7 +151,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 ## 👥 Leadership et engagement
 
 - 👑 **Président** - Communauté des étudiants tchadiens de l'ENSAE (Octobre 2023)
-- 📝 **Secrétaire** - Amical des étudiants tchadiens en économie et en statistique au Sénégal (AETES/SEN) (2025)
+- 📝 **Secrétaire** - Amical des Étudiants Tchadiens en Économie et en Statistique au Sénégal (AETES/SEN) (2025)
 - 📋 **Adjoint commissaire au compte** - Association des Grandes écoles et instituts du Sénégal (AGEIS 2023)
 
 ---
@@ -162,7 +162,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal | 2024 - présent
 
-### ✅ Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
+### ✅ Diplôme d'Analyste Statisticien (AS) - ENSAE | 2021-2024
 
 ---
 
