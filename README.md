@@ -43,29 +43,51 @@ N'hésitez pas à explorer mes projets et à me contacter pour toute collaborati
 
 ## 💻 Compétences techniques
 
-### 📊 Programmation et analyse
+*Organisées selon les étapes de production statistique*
+
+### 📱 1. Collecte de données
+![ODK](https://img.shields.io/badge/ODK-Open%20Data%20Kit-FF6B6B?style=flat)
+![Survey Solutions](https://img.shields.io/badge/Survey%20Solutions-World%20Bank-0078D4?style=flat)
+![CSPro](https://img.shields.io/badge/CSPro-Census%20Survey-4A90E2?style=flat)
+
+**Open Data Kit (ODK), Survey Solutions, CSPro**
+
+### 🔧 2. Traitement et préparation des données
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1F4788?style=flat)
 ![SPSS](https://img.shields.io/badge/SPSS-1F4788?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**R, Python, SQL, Stata, SPSS**
+**R, Python, SQL, Stata, SPSS, Visual Basic (Excel)**  
+*Anonymisation, archivage, nettoyage et validation des données*
 
-### 📈 Visualisation et dashboards
+### 📊 3. Analyse statistique
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python-FF6B6B?style=flat)
+![Big Data](https://img.shields.io/badge/Big%20Data-Analytics-FFA500?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-3.0-589632?style=flat&logo=qgis&logoColor=white)
+
+**Machine Learning** : Modèles de régression, séries temporelles, variables qualitatives  
+**Économétrie** : Modèle linéaire, séries temporelles, variables qualitatives  
+**Analyse spatiale** : QGIS  
+**Big Data** : Traitement et analyse de grandes masses de données
+
+### 📈 4. Visualisation et diffusion
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Shiny](https://img.shields.io/badge/Shiny-1E77B5?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 
-**Power BI, R Shiny, Dash, Plotly**
+**Power BI, R Shiny, Dash, Plotly**  
+*Création de dashboards interactifs et rapports visuels*
 
-### 🔍 Outils spécialisés
-- 📱 **Collecte de données** : Open Data Kit (ODK), Survey Solutions
-- 🗺️ **Analyse spatiale** : QGIS
-- ⚙️ **Automatisation** : Visual Basic (Excel)
-- 🤖 **Machine Learning** : Modèles de régression, séries temporelles, variables qualitatives
-- 💾 **Gestion de données** : Anonymisation, archivage et diffusion des données d'enquête, Data mining
-- 📊 **Économétrie** : Modèle linéaire, séries temporelles, variables qualitatives
+### ☁️ 5. Infrastructure et stockage
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-AWS-FF9900?style=flat)
+
+**Cloud Computing (AWS)** : Déploiement, stockage et gestion de données dans le cloud  
+**Big Data** : Infrastructure et traitement de données volumineuses
 
 ---
 
@@ -102,6 +124,18 @@ Application interactive pour le nettoyage et la préparation de données avec op
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 Modèle de machine learning pour prédire les prix de vente des maisons. Pipeline complet avec feature engineering, optimisation d'hyperparamètres, et dashboard interactif Streamlit pour la visualisation et les prédictions.
+
+---
+
+### 📊 Data Warehouse - Analyse des ventes et satisfaction client
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/Ben10-som/Data-warehouse-for-sales-analysis-)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des clients et la satisfaction client. Centralisation, nettoyage et structuration des données avec création de tableaux de bord Power BI interactifs pour faciliter la prise de décision.
 
 ---
 
