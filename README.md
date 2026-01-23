@@ -1,10 +1,6 @@
 <table>
 <tr>
-<td width="30%" align="center">
-  
-<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
 
-</td>
 <td width="70%">
 
 <p style="margin: 0; padding: 0;">
