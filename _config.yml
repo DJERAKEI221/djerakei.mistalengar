@@ -4,6 +4,46 @@ description: "Portfolio GitHub de Djerakeï Mistalengar - Élève Ingénieur Sta
 author: "Djerakeï Mistalengar"
 email: "yvesdjerake@gmail.com"
 
+# Profile information
+profile:
+  name: "DJERAKEI MISTALENGAR"
+  title: "Élève Ingénieur Statisticien Économiste (ISE)"
+  school: "École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)"
+  location: "Dakar, Sénégal"
+  location_detail: "Zone B, Dakar, Sénégal"
+  phone: "+221 77 468 58 13"
+  
+# Social links
+social:
+  linkedin: "https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/"
+  github: "https://github.com/DJERAKEI221"
+  email: "yvesdjerake@gmail.com"
+  
+# Badges (for reference)
+badges:
+  linkedin: "[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)"
+  github: "[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)"
+  email: "[![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)"
+
+# Contact section
+contact:
+  section_title: "📞 Contact"
+  phone_label: "📱 **Téléphone**"
+  location_label: "📍 **Localisation**"
+  availability: "💡 Disponible pour des opportunités de stage, projets collaboratifs et missions en analyse de données"
+
+# GitHub Statistics
+github_stats:
+  username: "DJERAKEI221"
+  stats_url: "https://github-readme-stats.vercel.app/api?username=DJERAKEI221&show_icons=true&theme=radical&hide_border=true"
+  top_langs_url: "https://github-readme-stats.vercel.app/api/top-langs/?username=DJERAKEI221&layout=compact&theme=radical&hide_border=true"
+  section_title: "⚡ Statistiques GitHub"
+
+# Footer information
+footer:
+  last_update: "2026"
+  update_text: "Dernière mise à jour"
+
 # GitHub Pages settings
 theme: jekyll-theme-minimal
 plugins:
