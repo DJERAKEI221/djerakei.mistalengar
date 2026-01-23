@@ -7,17 +7,30 @@
 </td>
 <td width="70%">
 
+<br>
+
 # 👋 Djerakeï Mistalengar
 
+<br>
+
 ### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
+
+<br>
 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal
 
 <br>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
+
+<br>
+
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
 
 </td>
@@ -183,13 +196,22 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
 <br>
 <br>
 
-📱 **Téléphone** : +221 77 468 58 13  
+📱 **Téléphone** : +221 77 468 58 13
+
+<br>
+
 📍 **Localisation** : Zone B, Dakar, Sénégal
 
 </div>
@@ -205,14 +227,20 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJERAKEI221&show_icons=true&theme=radical&hide_border=true)
 
 <br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJERAKEI221&layout=compact&theme=radical&hide_border=true)
 
 <br>
+<br>
 
 ---
 
+<br>
+
 *Dernière mise à jour : 2026* ✨
+
+<br>
 
 **💡 Disponible pour des opportunités de stage, projets collaboratifs et missions en analyse de données**
 
