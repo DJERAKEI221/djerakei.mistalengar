@@ -13,6 +13,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
 
+<br>
+
 </div>
 
 ---
@@ -154,7 +156,8 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal | 2024 - présent
 
-### ✅ Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
+### ✅ Formation précédente
+**Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
 
 ---
 
@@ -177,6 +180,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
 <br>
+<br>
 
 📱 **Téléphone** : +221 77 468 58 13  
 📍 **Localisation** : Zone B, Dakar, Sénégal
@@ -189,9 +193,15 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 ### ⚡ Statistiques GitHub
 
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJERAKEI221&show_icons=true&theme=radical&hide_border=true)
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJERAKEI221&layout=compact&theme=radical&hide_border=true)
+
+<br>
 
 ---
 
