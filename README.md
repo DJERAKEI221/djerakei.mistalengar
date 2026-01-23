@@ -7,31 +7,42 @@
 </td>
 <td width="70%">
 
-<br>
+<p style="margin: 0; padding: 0;">
 
 # 👋 Djerakeï Mistalengar
 
-<br>
+</p>
+
+<p style="margin: 0; padding: 0;">
 
 ### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
 
-<br>
+</p>
 
-**École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
+<p style="margin: 0; padding: 0;">
+
+**École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**<br>
 📍 Dakar, Sénégal
 
-<br>
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
 
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
+
+</p>
 
 </td>
 </tr>
@@ -195,24 +206,35 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 <div align="center">
 
+<p style="margin: 10px 0;">
+
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
 
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
 
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
-<br>
-<br>
+</p>
+
+<p style="margin: 15px 0;">
 
 📱 **Téléphone** : +221 77 468 58 13
 
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 📍 **Localisation** : Zone B, Dakar, Sénégal
+
+</p>
 
 </div>
 
@@ -222,26 +244,34 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 ### ⚡ Statistiques GitHub
 
-<br>
+<p style="margin: 15px 0;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJERAKEI221&show_icons=true&theme=radical&hide_border=true)
 
-<br>
-<br>
+</p>
+
+<p style="margin: 15px 0;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJERAKEI221&layout=compact&theme=radical&hide_border=true)
 
-<br>
-<br>
+</p>
+
+<p style="margin: 20px 0;">
 
 ---
 
-<br>
+</p>
+
+<p style="margin: 15px 0;">
 
 *Dernière mise à jour : 2026* ✨
 
-<br>
+</p>
+
+<p style="margin: 10px 0;">
 
 **💡 Disponible pour des opportunités de stage, projets collaboratifs et missions en analyse de données**
+
+</p>
 
 </div>
