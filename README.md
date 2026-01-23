@@ -176,6 +176,8 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
+<br>
+
 📱 **Téléphone** : +221 77 468 58 13  
 📍 **Localisation** : Zone B, Dakar, Sénégal
 
