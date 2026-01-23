@@ -1,8 +1,11 @@
+# DJERAKEI MISTALENGAR - Portfolio
+
 <table>
 <tr>
 <td width="30%" align="center" valign="top">
   
-<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
+<!-- Photo configurée dans _config.yml : photo.path_github -->
+<img src="https://github.com/DJERAKEI221/portefolio/blob/main/assets/photo.jpg?raw=true" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
 
 </td>
 <td width="70%" valign="top">
