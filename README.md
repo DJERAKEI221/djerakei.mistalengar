@@ -1,3 +1,31 @@
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+  
+<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
+
+</td>
+<td width="70%" valign="top">
+
+# 👋 Djerakeï Mistalengar
+
+### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
+
+**École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
+📍 Dakar, Sénégal
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
+[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
+[![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 À propos
 
 Bienvenue sur mon profil GitHub ! 👋
