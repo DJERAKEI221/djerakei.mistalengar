@@ -1,7 +1,7 @@
 # Site settings
-title: "Djerakeï Mistalengar - Portfolio"
+title: "DJERAKEI MISTALENGAR - Portfolio"
 description: "Portfolio GitHub de Djerakeï Mistalengar - Élève Ingénieur Statisticien Économiste (ISE)"
-author: "Djerakeï Mistalengar"
+author: " "
 email: "yvesdjerake@gmail.com"
 
 # Profile information
@@ -12,6 +12,14 @@ profile:
   location: "Dakar, Sénégal"
   location_detail: "Zone B, Dakar, Sénégal"
   phone: "+221 77 468 58 13"
+  
+# Profile photo settings
+photo:
+  path: "assets/photo.jpg"
+  alt: "Djerakeï Mistalengar"
+  width: 200
+  position: "left"
+  style: "border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);"
   
 # Social links
 social:
