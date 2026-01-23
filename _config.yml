@@ -1,12 +1,12 @@
 # Site settings
-title: "DJERAKEI MISTALENGAR - Portfolio"
+title: "Djerakeï Mistalengar - Portfolio"
 description: "Portfolio GitHub de Djerakeï Mistalengar - Élève Ingénieur Statisticien Économiste (ISE)"
-author: " "
+author: "Djerakeï Mistalengar"
 email: "yvesdjerake@gmail.com"
 
 # Profile information
 profile:
-  name: "DJERAKEI MISTALENGAR"
+  name: "Djerakeï Mistalengar"
   title: "Élève Ingénieur Statisticien Économiste (ISE)"
   school: "École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)"
   location: "Dakar, Sénégal"
@@ -16,6 +16,7 @@ profile:
 # Profile photo settings
 photo:
   path: "assets/photo.jpg"
+  path_github: "https://github.com/DJERAKEI221/portefolio/blob/main/assets/photo.jpg?raw=true"
   alt: "Djerakeï Mistalengar"
   width: 200
   position: "left"
