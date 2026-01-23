@@ -1,16 +1,13 @@
-# DJERAKEI MISTALENGAR - Portfolio
-
 <table>
 <tr>
 <td width="30%" align="center" valign="top">
   
-<!-- Photo configurée dans _config.yml : photo.path_github -->
-<img src="https://github.com/DJERAKEI221/portefolio/blob/main/assets/photo.jpg?raw=true" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
+<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
 
 </td>
 <td width="70%" valign="top">
 
-# 👋 Djerakeï Mistalengar
+# 👋 DJERAKEI MISTALENGAR
 
 ### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
 
@@ -26,6 +23,8 @@
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
@@ -164,8 +163,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal | 2024 - présent
 
-### ✅ Formation précédente
-**Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
+### ✅ Diplôme d'Analyste Statisticien (AS) - ENSAE | 2021-2024
 
 ---
 
@@ -176,4 +174,45 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 | 🇫🇷 **Français** | C2 (Maîtrise) |
 | 🇬🇧 **Anglais** | A2 (Élémentaire) |
 
+---
 
+
+## 📞 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
+[![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
+
+<br>
+<br>
+
+📱 **Téléphone** : +221 77 468 58 13  
+📍 **Localisation** : Zone B, Dakar, Sénégal
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Statistiques GitHub
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJERAKEI221&show_icons=true&theme=radical&hide_border=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJERAKEI221&layout=compact&theme=radical&hide_border=true)
+
+<br>
+
+---
+
+*Dernière mise à jour : 2026* ✨
+
+**💡 Disponible pour des opportunités de stage, projets collaboratifs et missions en analyse de données**
+
+</div>
