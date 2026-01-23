@@ -1,44 +1,24 @@
 <table>
 <tr>
+<td width="30%" align="center" valign="top">
+  
+<img src="assets/photo.jpg" alt="Djerakeï Mistalengar" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);">
 
-<td width="70%">
+</td>
+<td width="70%" valign="top">
 
-<p style="margin: 0; padding: 0;">
-
-# 👋 Djerakeï Mistalengar
-
-</p>
-
-<p style="margin: 0; padding: 0;">
+# 👋 DJERAKEI MISTALENGAR
 
 ### 🎓 Élève Ingénieur Statisticien Économiste (ISE)
 
-</p>
-
-<p style="margin: 0; padding: 0;">
-
-**École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**<br>
+**École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal
 
-</p>
-
-<p style="margin: 10px 0;">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
-
-</p>
-
-<p style="margin: 10px 0;">
-
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
-
-</p>
-
-<p style="margin: 10px 0;">
-
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
-
-</p>
 
 </td>
 </tr>
@@ -183,8 +163,7 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 **École nationale de la Statistique et de l'Analyse économique Pierre NDIAYE (ENSAE)**  
 📍 Dakar, Sénégal | 2024 - présent
 
-### ✅ Formation précédente
-**Élève Analyste Statisticien (AS)** - ENSAE | 2021-2024
+### ✅ Diplôme d'Analyste Statisticien (AS) - ENSAE | 2021-2024
 
 ---
 
@@ -202,35 +181,15 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 <div align="center">
 
-<p style="margin: 10px 0;">
-
 [![Email](https://img.shields.io/badge/Email-yvesdjerake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesdjerake@gmail.com)
-
-</p>
-
-<p style="margin: 10px 0;">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Djerakeï%20Mistalengar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerake%C3%AF-mistalengar-086b3a21b/)
-
-</p>
-
-<p style="margin: 10px 0;">
-
 [![GitHub](https://img.shields.io/badge/GitHub-DJERAKEI221-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DJERAKEI221)
 
-</p>
+<br>
+<br>
 
-<p style="margin: 15px 0;">
-
-📱 **Téléphone** : +221 77 468 58 13
-
-</p>
-
-<p style="margin: 10px 0;">
-
+📱 **Téléphone** : +221 77 468 58 13  
 📍 **Localisation** : Zone B, Dakar, Sénégal
-
-</p>
 
 </div>
 
@@ -240,34 +199,20 @@ Mise en place d'un Data Warehouse pour analyser les ventes, le comportement des 
 
 ### ⚡ Statistiques GitHub
 
-<p style="margin: 15px 0;">
+<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DJERAKEI221&show_icons=true&theme=radical&hide_border=true)
 
-</p>
-
-<p style="margin: 15px 0;">
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJERAKEI221&layout=compact&theme=radical&hide_border=true)
 
-</p>
-
-<p style="margin: 20px 0;">
+<br>
 
 ---
 
-</p>
-
-<p style="margin: 15px 0;">
-
 *Dernière mise à jour : 2026* ✨
 
-</p>
-
-<p style="margin: 10px 0;">
-
 **💡 Disponible pour des opportunités de stage, projets collaboratifs et missions en analyse de données**
-
-</p>
 
 </div>
